@@ -22,7 +22,7 @@ Phone Call → Your Number → Voylo Trunk → VoyloML App → Any AI Provider
 
 ## 🛠 Examples
 
-Our example repos demonstrate real patterns you'll need in production. Each runs out of the box — just add your trunk ID.
+Our example repos demonstrate real patterns you'll need in production. Each runs out of the box.
 
 ### Getting Started
 - **[voyloml-starter](https://github.com/voylo-labs/voyloml-starter)** — Hello world: answer a call and speak (5 min)
@@ -71,22 +71,15 @@ That's it. Number → Trunk → VoyloML. Every example follows this pattern.
 
 ## 🚦 Getting Started
 
-1. **Get a trunk** at [voylo.ai/app](https://voylo.ai/app) (2 min)
+1. **Get a number** at [voylo.ai/app](https://voylo.ai/app) (2 min)
 2. **Clone a starter**:
    ```bash
    git clone https://github.com/voylo-labs/voyloml-starter
    cd voyloml-starter
    ```
-3. **Add your trunk ID** to `app.xml`
-4. **Deploy** (Vercel, Netlify, or any static host)
-5. **Point your trunk** at your deployed URL
-6. **Call your number** — it works
-
-## 🤝 Community & Support
-
-- **Issues** — Report bugs or request features in each example repo
-- **Discussions** — Share patterns and get help in [GitHub Discussions](https://github.com/voylo-labs/voyloml-starter/discussions)
-- **Updates** — Follow [@voylo_ai](https://twitter.com/voylo_ai) for new examples and features
+3. **Deploy** `app.xml` (GitHub Pages, Vercel, or any static host)
+4. **Point your application** at your deployed URL
+5. **Call your number** — it works
 
 ## 📜 License
 
@@ -94,4 +87,4 @@ All example code is MIT licensed. Use it, fork it, ship it.
 
 ---
 
-**Building with Voylo?** We'd love to feature your use case. Tag [@voylo_ai](https://twitter.com/voylo_ai) and show us what you built.
+**Building with Voylo?** We'd love to feature your use case. Tag [@VoyloAi](https://twitter.com/VoyloAi) and show us what you built.
